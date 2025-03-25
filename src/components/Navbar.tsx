@@ -2,6 +2,7 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { cn } from "@/lib/utils";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
 export const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
@@ -25,7 +26,7 @@ export const Navbar = () => {
       className={cn(
         "fixed top-0 left-0 right-0 z-50 transition-all duration-300 ease-in-out py-4 px-6",
         scrolled 
-          ? "bg-white/90 backdrop-blur-md shadow-soft" 
+          ? "bg-background/90 backdrop-blur-md shadow-soft" 
           : "bg-transparent"
       )}
     >
@@ -45,6 +46,7 @@ export const Navbar = () => {
         </nav>
         
         <div className="flex items-center space-x-4">
+          <ThemeToggle />
           <Link 
             to="/login" 
             className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors"
@@ -53,7 +55,7 @@ export const Navbar = () => {
           </Link>
           <Link 
             to="/signup" 
-            className="bg-primary text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-primary/90 transition-colors"
+            className="bg-primary text-primary-foreground px-4 py-2 rounded-lg text-sm font-medium hover:bg-primary/90 transition-colors"
           >
             Sign Up
           </Link>

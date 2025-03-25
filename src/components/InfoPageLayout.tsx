@@ -18,7 +18,7 @@ const InfoPageLayout = ({ children, title, subtitle }: InfoPageLayoutProps) => {
           <div className="max-w-4xl mx-auto">
             <h1 className="text-3xl md:text-4xl font-display font-bold mb-4">{title}</h1>
             {subtitle && <p className="text-xl text-muted-foreground mb-8">{subtitle}</p>}
-            <div className="prose prose-blue max-w-none">
+            <div className="prose prose-blue dark:prose-invert max-w-none">
               {children}
             </div>
           </div>
