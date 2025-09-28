@@ -10,7 +10,7 @@ const Covid = () => {
       <div className="bg-blue-50 p-6 rounded-lg mb-8">
         <h2 className="text-xl font-semibold mb-2">Current Status</h2>
         <p>
-          VoyageBus is fully operational across all routes. We continue to maintain enhanced cleaning 
+          LenojrBus is fully operational across all routes. We continue to maintain enhanced cleaning 
           protocols and follow public health recommendations to ensure safe travel for all passengers.
         </p>
       </div>
@@ -86,8 +86,8 @@ const Covid = () => {
       </p>
       <p>
         For any specific questions or concerns regarding COVID-19 and your travel plans, please contact 
-        our customer service team at <a href="mailto:covid-info@voyagebus.com" className="text-primary">covid-info@voyagebus.com</a> or 
-        call 1-800-VOYAGE-BUS.
+        our customer service team at <a href="mailto:covid-info@lenojrbus.com" className="text-primary">covid-info@lenojrbus.com</a> or 
+        call 1-546-LENOJR-BUS.
       </p>
     </InfoPageLayout>
   );

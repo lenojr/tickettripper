@@ -6,11 +6,11 @@ import { Link } from "react-router-dom";
 const Careers = () => {
   return (
     <InfoPageLayout 
-      title="Careers at VoyageBus" 
+      title="Careers at LenojrBus" 
       subtitle="Join our team and help transform the future of bus travel"
     >
       <p>
-        At VoyageBus, we're always looking for talented individuals who share our passion for exceptional 
+        At LenojrBus, we're always looking for talented individuals who share our passion for exceptional 
         service and innovation in transportation. Join our diverse team and be part of shaping the future 
         of bus travel.
       </p>
@@ -54,7 +54,7 @@ const Careers = () => {
       
       <p>
         Don't see a position that matches your skills? We're always interested in hearing from 
-        talented individuals. Send your resume to <a href="mailto:careers@voyagebus.com" className="text-primary">careers@voyagebus.com</a>.
+        talented individuals. Send your resume to <a href="mailto:careers@lenojrbus.com" className="text-primary">careers@Lenojrbus.com</a>.
       </p>
     </InfoPageLayout>
   );

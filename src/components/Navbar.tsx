@@ -35,7 +35,7 @@ export const Navbar = () => {
           to="/" 
           className="text-primary font-display font-bold text-xl tracking-tight"
         >
-          VoyageBus
+          Lenojr
         </Link>
         
         <nav className="hidden md:flex items-center space-x-8">

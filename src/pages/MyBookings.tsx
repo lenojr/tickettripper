@@ -84,7 +84,7 @@ const MyBookings = () => {
           <section className="mb-16">
             <h1 className="text-4xl md:text-5xl font-display font-bold mb-6 text-center">My Bookings</h1>
             <p className="text-muted-foreground text-center max-w-3xl mx-auto mb-12">
-              Manage your trips and view your upcoming and past journeys with VoyageBus.
+              Manage your trips and view your upcoming and past journeys with LenojrBus.
             </p>
             
             {isLoading ? (

@@ -57,7 +57,7 @@ const Login = () => {
         <div className="max-w-md w-full bg-white shadow-soft rounded-xl p-8">
           <div className="text-center mb-8">
             <h1 className="text-2xl font-display font-bold mb-2">Welcome back</h1>
-            <p className="text-muted-foreground">Sign in to your VoyageBus account</p>
+            <p className="text-muted-foreground">Sign in to your LenojrBus account</p>
           </div>
           
           <Form {...form}>

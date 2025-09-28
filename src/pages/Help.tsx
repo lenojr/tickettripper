@@ -95,12 +95,12 @@ const Help = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
             <h3 className="font-semibold mb-2">Phone Support</h3>
-            <p className="mb-1">1-800-VOYAGE-BUS (1-800-869-2432)</p>
+            <p className="mb-1">1-546-LENOJR-BUS (1-546-869-2432)</p>
             <p className="text-sm text-muted-foreground">Available 24/7</p>
           </div>
           <div>
             <h3 className="font-semibold mb-2">Email Support</h3>
-            <p className="mb-1"><a href="mailto:support@voyagebus.com" className="text-primary">support@voyagebus.com</a></p>
+            <p className="mb-1"><a href="mailto:support@lenojrbus.com" className="text-primary">support@vlenojrbus.com</a></p>
             <p className="text-sm text-muted-foreground">Response within 24 hours</p>
           </div>
         </div>

@@ -101,9 +101,9 @@ const Cookie = () => {
         If you have any questions about our use of cookies or this Cookie Policy, please contact us at:
       </p>
       <p>
-        Email: <a href="mailto:privacy@voyagebus.com" className="text-primary">privacy@voyagebus.com</a><br />
+        Email: <a href="mailto:privacy@lenojrbus.com" className="text-primary">privacy@lenojrbus.com</a><br />
         Address: 123 Transit Way, Suite 456, Bus City, BC 12345<br />
-        Phone: 1-800-COOKIES (1-800-266-5437)
+        Phone: 1-800-COOKIES (1-546-266-5437)
       </p>
       
       <p className="mt-8 text-sm text-muted-foreground">

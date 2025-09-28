@@ -8,7 +8,7 @@ const About = () => {
       subtitle="Learn more about VoyageBus and our mission"
     >
       <p>
-        Founded in 2020, VoyageBus is committed to transforming the bus travel experience across the country. 
+        Founded in 2020, LenojrBus is committed to transforming the bus travel experience across the country. 
         We believe that bus travel should be comfortable, reliable, and accessible to everyone.
       </p>
       
@@ -31,12 +31,12 @@ const About = () => {
       <p>
         Our diverse team of professionals is united by a passion for transforming the travel industry. 
         From our experienced drivers to our customer service representatives and management team, 
-        everyone at VoyageBus plays a vital role in delivering exceptional service.
+        everyone at LenojrBus plays a vital role in delivering exceptional service.
       </p>
       
       <h2>Our Commitment</h2>
       <p>
-        At VoyageBus, we're committed to making bus travel the preferred choice for short and medium-distance journeys. 
+        At LenojrBus, we're committed to making bus travel the preferred choice for short and medium-distance journeys. 
         By offering comfortable vehicles, convenient schedules, competitive prices, and excellent service, 
         we aim to make your journey as enjoyable as your destination.
       </p>

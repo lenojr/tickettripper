@@ -41,7 +41,7 @@ const Signup = () => {
       setTimeout(() => {
         toast({
           title: "Account created",
-          description: "Welcome to VoyageBus!",
+          description: "Welcome to LenojrBus!",
         });
         setIsLoading(false);
       }, 1000);

@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Blog = () => {
   return (
     <InfoPageLayout 
-      title="VoyageBus Blog" 
+      title="LenojrBus Blog" 
       subtitle="Travel tips, company updates, and stories from the road"
     >
       <div className="space-y-12">
@@ -53,7 +53,7 @@ const Blog = () => {
           <h2 className="text-2xl font-semibold mt-2 mb-4">Why Bus Travel is the Eco-Friendly Choice</h2>
           <p className="mb-4">
             Did you know that choosing bus travel can significantly reduce your carbon footprint? 
-            Learn about the environmental benefits of bus travel and how VoyageBus is working to make 
+            Learn about the environmental benefits of bus travel and how LenojrBus is working to make 
             transportation more sustainable.
           </p>
           <Link to="/blog/eco-friendly-travel" className="text-primary hover:underline">

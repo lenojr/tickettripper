@@ -8,7 +8,7 @@ const Licenses = () => {
       subtitle="Third-party software and resources used by VoyageBus"
     >
       <p>
-        VoyageBus uses various open-source software packages, libraries, frameworks, and other resources 
+        LenojrBus uses various open-source software packages, libraries, frameworks, and other resources 
         in the development and operation of our website, mobile application, and services. We are grateful 
         to the developers and contributors of these projects.
       </p>
@@ -130,7 +130,7 @@ const Licenses = () => {
       
       <p>
         For detailed license information about any of the software or resources listed above, please 
-        visit the respective websites or contact us at <a href="mailto:legal@voyagebus.com" className="text-primary">legal@voyagebus.com</a>.
+        visit the respective websites or contact us at <a href="mailto:legal@lenojrbus.com" className="text-primary">legal@lenojrbus.com</a>.
       </p>
       
       <p className="mt-8 text-sm text-muted-foreground">

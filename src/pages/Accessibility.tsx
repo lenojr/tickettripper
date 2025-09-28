@@ -8,7 +8,7 @@ const Accessibility = () => {
       subtitle="Our commitment to accessible travel for all"
     >
       <p>
-        At VoyageBus, we believe that everyone should have access to comfortable, reliable transportation. 
+        At LenojrBus, we believe that everyone should have access to comfortable, reliable transportation. 
         We are committed to providing accessible services to people of all abilities and continually 
         work to improve the accessibility of our vehicles, facilities, and digital platforms.
       </p>
@@ -37,8 +37,8 @@ const Accessibility = () => {
       </p>
       <ul>
         <li>During the online booking process</li>
-        <li>By calling our dedicated accessibility helpline: 1-800-ACCESS-VB (1-800-222-3772)</li>
-        <li>By emailing <a href="mailto:accessibility@voyagebus.com" className="text-primary">accessibility@voyagebus.com</a></li>
+        <li>By calling our dedicated accessibility helpline: 1-546-ACCESS-LB (1-546-222-3772)</li>
+        <li>By emailing <a href="mailto:accessibility@lenojrbus.com" className="text-primary">accessibility@lenojrbus.com</a></li>
       </ul>
       
       <h2>Terminal Accessibility</h2>
@@ -71,7 +71,7 @@ const Accessibility = () => {
       </ul>
       <p>
         If you encounter any accessibility issues with our website or app, please contact us at 
-        <a href="mailto:digital-access@voyagebus.com" className="text-primary"> digital-access@voyagebus.com</a>.
+        <a href="mailto:digital-access@lenojrbus.com" className="text-primary"> digital-access@lenojrbus.com</a>.
       </p>
       
       <h2>Traveling with a Personal Care Attendant</h2>
@@ -83,9 +83,9 @@ const Accessibility = () => {
       <h2>Feedback and Continuous Improvement</h2>
       <p>
         We are committed to continuously improving our accessibility services. If you have any feedback, 
-        suggestions, or concerns about accessibility at VoyageBus, please contact our Accessibility 
-        Coordinator at <a href="mailto:accessibility@voyagebus.com" className="text-primary">accessibility@voyagebus.com</a> or call 
-        1-800-ACCESS-VB (1-800-222-3772).
+        suggestions, or concerns about accessibility at LenojrBus, please contact our Accessibility 
+        Coordinator at <a href="mailto:accessibility@lenojrbus.com" className="text-primary">accessibility@lenojrbus.com</a> or call 
+        1-546-ACCESS-LB (1-546-222-3772).
       </p>
     </InfoPageLayout>
   );

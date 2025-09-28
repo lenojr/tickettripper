@@ -11,7 +11,7 @@ export const Footer = () => {
               to="/" 
               className="text-primary font-display font-bold text-xl tracking-tight"
             >
-              VoyageBus
+              Lenojr
             </Link>
             <p className="text-muted-foreground text-sm max-w-xs">
               Making bus travel easy, comfortable, and accessible for everyone.
@@ -52,7 +52,7 @@ export const Footer = () => {
         
         <div className="border-t border-border mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} VoyageBus. All rights reserved.
+            &copy; {new Date().getFullYear()}  Lenojr. All rights reserved.
           </p>
           
           <div className="flex space-x-6">

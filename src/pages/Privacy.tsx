@@ -8,7 +8,7 @@ const Privacy = () => {
       subtitle="How we collect, use, and protect your personal information"
     >
       <p>
-        At VoyageBus, we are committed to protecting your privacy and ensuring the security of your 
+        At Lenojr, we are committed to protecting your privacy and ensuring the security of your 
         personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard 
         your information when you use our website, mobile application, and transportation services.
       </p>
@@ -85,7 +85,7 @@ const Privacy = () => {
         <li>Withdraw consent</li>
       </ul>
       <p>
-        To exercise these rights, please contact us at <a href="mailto:privacy@voyagebus.com" className="text-primary">privacy@voyagebus.com</a>.
+        To exercise these rights, please contact us at <a href="mailto:privacy@lenojrbus.com" className="text-primary">privacy@lenojrbus.com</a>.
       </p>
       
       <h2>Cookies and Tracking Technologies</h2>
@@ -113,9 +113,9 @@ const Privacy = () => {
         If you have any questions about this Privacy Policy, please contact us at:
       </p>
       <p>
-        Email: <a href="mailto:privacy@voyagebus.com" className="text-primary">privacy@voyagebus.com</a><br />
+        Email: <a href="mailto:privacy@lenojrbus.com" className="text-primary">privacy@lenojrbus.com</a><br />
         Address: 123 Transit Way, Suite 456, Bus City, BC 12345<br />
-        Phone: 1-800-PRIVACY (1-800-774-8229)
+        Phone: 1-546-PRIVACY (1-546-774-8229)
       </p>
       
       <p className="mt-8 text-sm text-muted-foreground">
