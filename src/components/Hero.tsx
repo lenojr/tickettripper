@@ -5,15 +5,15 @@ export const Hero = () => {
   return (
     <section className="relative min-h-screen flex items-center pt-16">
       {/* Background gradient */}
-      <div className="absolute inset-0 bg-gradient-to-b from-blue-50 to-white -z-10"></div>
+      <div className="absolute inset-0 bg-gradient-to-b from-background to-secondary -z-10"></div>
       
       {/* Background circles */}
-      <div className="absolute top-1/4 left-1/4 w-64 h-64 bg-blue-100 rounded-full filter blur-3xl opacity-30 animate-pulse -z-10"></div>
-      <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-blue-100 rounded-full filter blur-3xl opacity-20 animate-pulse -z-10"></div>
+      <div className="absolute top-1/4 left-1/4 w-64 h-64 bg-primary/10 rounded-full filter blur-3xl opacity-30 animate-pulse -z-10"></div>
+      <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-primary/5 rounded-full filter blur-3xl opacity-20 animate-pulse -z-10"></div>
       
       <div className="page-container">
         <div className="max-w-3xl mx-auto text-center mb-12 md:mb-16">
-          <span className="inline-block px-3 py-1 bg-blue-100 text-primary text-xs font-medium rounded-full mb-6 animate-fade-in">
+          <span className="inline-block px-3 py-1 bg-primary/10 text-primary text-xs font-medium rounded-full mb-6 animate-fade-in">
             The Simplest Way to Travel
           </span>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold tracking-tight text-foreground mb-6 animate-fade-in" style={{ animationDelay: "0.1s" }}>
